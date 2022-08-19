@@ -1,0 +1,13 @@
+.logo_img {
+  width: 30px;
+}
+
+.main_Navbar {
+  width: 100%;
+  background-color: #22264d;
+  color: white;
+}
+
+.nav-link {
+  color: white !important;
+}
